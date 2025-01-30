@@ -1,6 +1,5 @@
 ini contoh pembuatan file di branch 
 ini baris ke dua dibuat nya di branch main
-baris ke tiga di buat pada branch main 
 menambahkan baris keempat setelah pembuatan file (posisi comit 1)
 menambahkan baris keempat setelah pembuatan file (posisi comit 2)
 menambahkan baris keempat setelah pembuatan file (posisi comit 3)
